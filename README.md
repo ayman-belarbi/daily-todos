@@ -1,6 +1,6 @@
 # Daily Todos
 
-Welcome to ***`Daily Todos`***, a simple and efficient to-do list application built with React and Vite. This app allows users to add, edit, and delete tasks, helping you stay organized and on top of your daily tasks.
+Welcome to **`Daily Todos`**, a simple and efficient to-do list application built with React and Vite. This app allows users to add, edit, and delete tasks, helping you stay organized and on top of your daily tasks.
 
 ## Features
 
