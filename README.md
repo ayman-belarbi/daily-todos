@@ -26,17 +26,17 @@ To get started with the Daily Todo's app, follow these steps:
    
 
 2. Navigate to the project directory:
-   ```bash
+   ``bash
    cd daily-todos
    
 
 3. Install the dependencies:
-   ```bash
+   ``bash
    npm install
    
 
 4. Run the development server:
-   ```bash
+   ``bash
    npm run dev
    
 
