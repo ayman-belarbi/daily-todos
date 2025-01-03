@@ -11,10 +11,10 @@ Welcome to **`Daily Todos`**, a simple and efficient to-do list application buil
 
 ## Technologies Used
 
-- *React*: JavaScript library for building user interfaces.
-- *Vite*: Next-generation front-end tool for fast development.
-- *Tailwind CSS*: Utility-first CSS framework for creating custom designs.
-- *Prop-Types*: Runtime type checking for React props.
+- **React**: JavaScript library for building user interfaces.
+- **Vite**: Next-generation front-end tool for fast development.
+- **Tailwind CSS**: Utility-first CSS framework for creating custom designs.
+- **Prop-Types**: Runtime type checking for React props.
 
 ## Prerequisites
 
