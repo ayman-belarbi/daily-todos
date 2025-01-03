@@ -1,6 +1,6 @@
 # Daily Todos
 
-Welcome to *Daily Todo's*, a simple and efficient to-do list application built with React and Vite. This app allows users to add, edit, and delete tasks, helping you stay organized and on top of your daily tasks.
+Welcome to *Daily Todos*, a simple and efficient to-do list application built with React and Vite. This app allows users to add, edit, and delete tasks, helping you stay organized and on top of your daily tasks.
 
 ## Features
 
@@ -16,29 +16,36 @@ Welcome to *Daily Todo's*, a simple and efficient to-do list application built w
 - *Tailwind CSS*: Utility-first CSS framework for creating custom designs.
 - *Prop-Types*: Runtime type checking for React props.
 
+## Prerequisites
+
+Before running the app, ensure you have the following installed:
+
+- Node.js
+- npm (or yarn)
+
 ## Installation
 
-To get started with the Daily Todo's app, follow these steps:
+To get started with the Daily Todos app, follow these steps:
 
 1. Clone the repository:
-   bash
+   ```bash
    git clone https://github.com/ayman-belarbi/daily-todos.git
-   
+   ```
 
 2. Navigate to the project directory:
-   ``bash
+   ```bash
    cd daily-todos
-   
+   ```
 
 3. Install the dependencies:
-   ``bash
+   ```bash
    npm install
-   
+   ```
 
 4. Run the development server:
-   ``bash
+   ```bash
    npm run dev
-   
+   ```
 
 The app will be live on http://localhost:3000.
 
@@ -52,6 +59,10 @@ The app will be live on http://localhost:3000.
 
 ### Deleting Tasks:
 - Click "Delete" next to a task to remove it from the list.
+
+## Contributing
+
+If you'd like to contribute to this project, please feel free to fork the repository and submit a pull request. We appreciate your help!
 
 ## Screenshots
 
