@@ -68,4 +68,4 @@ If you'd like to contribute to this project, please feel free to fork the reposi
 
 Here’s a preview of the app in action:
 
-![Screenshot](screenshot.png)
+![Screenshot]([screenshot.png](https://github.com/ayman-belarbi/daily-todos/blob/main/public/screenshot.png))
